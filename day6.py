@@ -10,7 +10,7 @@ lastName[0:6]
 firstName[-7:-1]
 'Saura'
 firstName[-8:-1]
-'Saura'
+'Saura'                                #why i am not getting desired output (if u have seen, solve doubt in workshop
 lastName[-1]
 'n'
 for i in range(0,len(full_name)+1,1):
